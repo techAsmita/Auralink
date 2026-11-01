@@ -20,6 +20,15 @@
   <br />
   <img src="docs/images/landing.jpg" width="900" alt="The Auralink landing page: 'Every passenger, 伝わる。' beside an aircraft window looking out at Mount Fuji at dusk, with cherry blossoms" />
 
+   <p>
+    <a href="https://auralink-o11a.onrender.com/"><strong>▶ Live demo</strong></a> &nbsp;·&nbsp;
+    <a href="https://youtu.be/pF3R-ZWx4Ig"><strong>🎬 Demo video</strong></a> &nbsp;·&nbsp;
+    <a href="https://docs.google.com/presentation/d/1kHwevf-dCug_UkxB-9gBstxP5LAHG_Js/edit?usp=sharing"><strong>📊 Presentation</strong></a>
+  </p>
+
+  <a href="https://youtu.be/pF3R-ZWx4Ig"><img src="https://img.youtube.com/vi/pF3R-ZWx4Ig/maxresdefault.jpg" width="640" alt="Auralink demo video on YouTube. Click to play" /></a><br />
+  <sub><b>Demo video.</b> Click to watch on YouTube.</sub>
+
   <br /><br />
 
   <a id="team-shinobi-systems"></a>
@@ -82,7 +91,7 @@ Every sentence a passenger or crew member reads comes from a reviewed template.
   </tr>
 </table>
 
-<p align="center"><a href="https://auralink-o11a.onrender.com/"><strong>▶ Live demo</strong></a> · <a href="https://auralink-o11a.onrender.com/start">Demo guide</a> (the three-step walkthrough: passenger, crew PIN, jury screen)<br />
+<p align="center"><a href="https://auralink-o11a.onrender.com/"><strong>▶ Live demo</strong></a> · <a href="https://auralink-o11a.onrender.com/start">Demo guide</a> (the three-step walkthrough: passenger, crew PIN, jury screen) · <a href="https://youtu.be/pF3R-ZWx4Ig">Demo video</a> · <a href="https://docs.google.com/presentation/d/1kHwevf-dCug_UkxB-9gBstxP5LAHG_Js/edit?usp=sharing">Presentation</a><br />
 <sub>Render's free tier sleeps after inactivity, so the first open can take up to a minute, and Free Talk's translation/voice is dropped (see <a href="#deploying-a-live-demo">deploying a live demo</a>).</sub></p>
 
 ## Contents
